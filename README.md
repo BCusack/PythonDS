@@ -19,6 +19,6 @@ Project instructions for creating Python Data science Data analysis SPA from scr
 ## Start Environment
 *Remember each time to check the environment is active when working with this project.*
 - In VSCode terminal type `conda activate env37`.
-[Active environment](https://github.com/BCusack/PythonDS/blob/main/env.PNG)
+![Active environment](https://github.com/BCusack/PythonDS/blob/main/env.PNG)
 
 
