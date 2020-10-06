@@ -7,8 +7,17 @@ Project instructions for creating Python Data science Data analysis SPA from scr
 - [Anaconda](https://www.anaconda.com/products/individual) Python distribution for managing packages and environments
 ## Setup Workspace
 - Create a Projects/Python file that will contain all working files and the Conda environment.
-- Open Projects/Python in VSCode by right clicking in the file and "Open with vscode".
+- Open *Projects/Python* in VSCode by right clicking in the file and "Open with vscode".
 - In the extensions panel, install the Python extension.
-- In VSCode and ctr+~ to open the terminal "conda create -n env37 python=3.7".
+- In VSCode and ctr+~ to open the terminal `conda create -n env37 python=3.7` . See [Managing Environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
+## Create Project
+- Open Github and Create a new repository with the name of your project.
+- In the local *Projects/Python* open in VSCode **ctr+~** to open the terminal.
+- Copy the clone link from Github and in VSCode's terminal type ***git clone***  paste the link and hit enter.
+    - This will create a Project file with git initialised.
+    - Once finished exit VSCode, open the *Project* file with VSCode.
+## Start Environment
+*Remember each time to check the environment is active when working with this project.*
+- In VSCode terminal type `conda activate env37`.
 
 
